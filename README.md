@@ -113,6 +113,7 @@ I've attached an example of HOG to the ```hog.py``` code, and also attached an a
 
 <img width="768" height="576" alt="Screenshot from 2025-09-20 17-26-05" src="https://github.com/user-attachments/assets/4e5ad770-5e3a-4c94-a723-7e19f78b06e1" />
 
+---
 
 - **Result**
 
