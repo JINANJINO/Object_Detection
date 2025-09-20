@@ -1,4 +1,4 @@
-# Object Detector
+# Object Detection
 ## 1. Template Matching
 
 **Overview**
@@ -40,7 +40,7 @@ The procedure is as follows:
 
 This approach enables **scale-invariant template matching**, improving robustness when the target object appears larger or smaller than the template.
 
-
+Please refer to my repo.
 ---
 
 ## 1-1. Template Matched Example
@@ -60,7 +60,6 @@ The original image and template image are included in the repo.
   </tr>
 </table>
 
----
 
 ---
 
